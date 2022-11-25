@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { App } from 'components/App';
 import './index.css';
-// import Box from '@material-ui/core/Box';
 import { ThemeProvider } from 'styled-components';
 import { theme } from 'theme';
 
